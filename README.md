@@ -99,11 +99,14 @@ A short overview of your project.
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-<p>
+<p align="left">
   <a href="mailto:maasumkamal@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/masum-k">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
