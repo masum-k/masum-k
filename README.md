@@ -63,6 +63,14 @@ Currently, I'm focused on improving my full-stack development skills and working
   <img src="https://github-readme-stats.vercel.app/api?username=masum-k&show_icons=true&theme=tokyonight" />
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=masum-k&theme=tokyonight&hide_border=true" />
+</p>
+
+## 💻 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum-k&layout=compact&theme=tokyonight" />
 </p>
