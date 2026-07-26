@@ -16,7 +16,7 @@
   <a href="mailto:maasumkamal@gmail.com">
     <img src="https://img.shields.io/badge/Email-maasumkamal%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Comilla%20Sadar%2C%20Comilla-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Comilla%20Sadar%2C%20Comilla%2C%20Bangladesh-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
