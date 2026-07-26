@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** with 1 year of experience in web development. I enjoy building modern web applications using JavaScript, TypeScript, React, and Next.js.
+I'm a passionate **Full-Stack Developer** with 1 year of experience in web development. I enjoy building modern web applications using JavaScript, React, and Next.js.
 
 Currently, I'm focused on improving my full-stack development skills and working toward my goal of becoming a **Software Engineer**.
 
@@ -60,19 +60,15 @@ Currently, I'm focused on improving my full-stack development skills and working
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masum-k&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masum-k&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=masum-k&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masum-k&theme=tokyonight&hide_border=true" />
 </p>
 
-## 💻 Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum-k&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum-k&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
